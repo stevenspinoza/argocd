@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://stsp@dev.azure.com/stsp/Pipelines/_git/argocd-app-config
+    repoURL: https://github.com/stevenspinoza/argocd.git
     targetRevision: HEAD
     path: dev
   destination: 
